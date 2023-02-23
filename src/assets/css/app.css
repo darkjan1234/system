@@ -3,7 +3,7 @@
 :root {
   --primary: #686ef0;
   --primary-active: #5960e6;
-  --bg-auth: #f3f3fa;
+  --bg-auth: #bdf0bb;
   --white: #ffffff;
   --dark: #212129;
   --grey: #8e8e97;
@@ -28,7 +28,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: var(--dark);
-  background-color: var(--white);
+  background-color: var(--grey);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
 }
@@ -1128,4 +1128,7 @@ progress {
     visibility: visible;
     transform: translateY(0);
   }
+}
+.logo-name{
+  text-align: center;
 }

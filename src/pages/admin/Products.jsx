@@ -65,7 +65,7 @@ const Products = () => {
               <span className="breadcrumb-link-icon">
                 <i className="bx bx-home-alt"></i>
               </span>
-              Dashboard
+              Payments
             </Link>
           </li>
           <li className="breadcrumb-item active">Product</li>

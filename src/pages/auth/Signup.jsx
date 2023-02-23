@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import SCLOGO from "../../assets/img/sc-logo.png";
+import SCLOGO from "../../assets/img/htc.png";
 
 const Signup = () => {
   return (

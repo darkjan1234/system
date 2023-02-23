@@ -20,8 +20,7 @@ const Header = () => {
                 <div className="notification-details">
                   <h1 className="notification-title">Notification Title</h1>
                   <p className="notification-description">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Fugiat illo dolores, quo possimus incidunt dolor.
+                    Hello World!
                   </p>
                 </div>
               </Link>
@@ -40,8 +39,7 @@ const Header = () => {
                     Notification Title Title Title Title Title
                   </h1>
                   <p className="notification-description">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Fugiat illo dolores, quo possimus incidunt dolor.
+                    Hello World 2!.
                   </p>
                 </div>
               </Link>

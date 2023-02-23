@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import SCLOGO from "../../assets/img/sc-logo.png";
+import SCLOGO from "../../assets/img/htc.png";
 const Signin = () => {
   return (
     <React.Fragment>
@@ -8,7 +8,7 @@ const Signin = () => {
         <div className="auth-header-logo">
           <img src={SCLOGO} alt="" className="auth-header-logo-img" />
         </div>
-        <h1 className="auth-header-title">Welcome to simple coding</h1>
+        <h1 className="auth-header-title">HTC Online Payment System</h1>
         <p className="auth-header-subtitle">
           Sign-in to your account and start the adventure
         </p>
@@ -17,13 +17,13 @@ const Signin = () => {
         <form className="auth-form-validation">
           <div className="input-field">
             <label htmlFor="email" className="input-label">
-              Email address
+              User ID
             </label>
             <input
               type="text"
               className="input-control"
               id="email"
-              placeholder="example@gmail.com"
+              placeholder="User ID"
               autoComplete="off"
               required
             />

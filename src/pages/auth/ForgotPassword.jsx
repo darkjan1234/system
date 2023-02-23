@@ -24,7 +24,7 @@ const ForgotPassword = () => {
               type="text"
               className="input-control"
               id="email"
-              placeholder="example@gmail.com"
+              placeholder="User ID"
               autoComplete="off"
               required
             />

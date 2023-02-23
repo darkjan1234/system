@@ -1,6 +1,6 @@
 import React from "react";
 import Decoreleft from "../../assets/img/decore-left.png";
-import Decoreright from "../../assets/img/decore-right.png";
+import Decoreright from "../../assets/img/htc.png";
 
 const Dashboard = () => {
   return (
@@ -27,8 +27,7 @@ const Dashboard = () => {
                   Welcome back, Administrator
                 </h1>
                 <p className="widget-user-description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Nihil, eveniet?
+                 This  system is maintenance, we will notify you, if its done!
                 </p>
               </div>
             </div>
@@ -44,7 +43,7 @@ const Dashboard = () => {
                   </div>
                   <div className="card-widget-body">
                     <h1 className="widget-count">10</h1>
-                    <p className="widget-name">Products</p>
+                    <p className="widget-name">Payments</p>
                   </div>
                 </div>
               </div>
@@ -57,7 +56,7 @@ const Dashboard = () => {
                   </div>
                   <div className="card-widget-body">
                     <h1 className="widget-count">10</h1>
-                    <p className="widget-name">Order Received</p>
+                    <p className="widget-name">Request Soa</p>
                   </div>
                 </div>
               </div>
